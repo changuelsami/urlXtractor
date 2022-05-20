@@ -1,10 +1,10 @@
 <?php
-# recursively extract URLs from a XML sitemap.
+# recursively extract URLs from an XML sitemap.
 #
-# To display only :
+# Display only :
 # $ php urlXtractor.php 
 #
-# Write resulst in a text file :
+# Write results in a text file :
 # $ php urlXtractor.php > out.csv
 
 function urlXtractor($url)
